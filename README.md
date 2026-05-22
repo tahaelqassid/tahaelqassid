@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tahaelqassid
 - 👀 -- BIG DATA & AI -- 
-- 👀 I’m a student in International University of Rabat (Data Engineering) uir.ac.ma (4th year)
-- 📫 How to reach me ( m.tahaelqassid@gmail.com)
+- 👀 International University of Rabat - uir.ac.ma - (4th year)
+- 📫 How to reach me ( m.tahaelqassid@gmail.com) / taha.elqassid@uir.ac.ma
 - Phone Number : +212649399174
 
 
